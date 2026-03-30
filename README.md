@@ -11,7 +11,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-am-Krish&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-readme-stats.vercel.app/api?username=I-am-Krish)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Krish&layout=compact)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=I-am-Krish&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
