@@ -18,7 +18,6 @@ M.Tech Cybersecurity @ DIAT Pune | I build things that defend, break things that
 
 - 🎓 **M.Tech Cyber Security** @ DIAT, Pune (2024 – Present)
 - 🎓 **B.Tech CS & Engineering (Cyber Security)** @ Haldia Institute of Technology (2020 – 2024)
-- 💼 **Graduate Engineer Trainee** @ Wingspan Global Pvt. Ltd. (Feb 2026 – Present)
 - 🔬 **Research Areas:** Cyber-Physical System Security, Network Protocol Design, Steganography, ML-based Threat Detection
 - 📝 **2 Research Papers Published** in Springer Nature & IGI Global
 - 🏆 **5-Star Badges** in Python & C on HackerRank | **500+ problems** solved on LeetCode & HackerRank
