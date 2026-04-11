@@ -79,9 +79,9 @@
 
 <h3 align="left">📄 Research Publications</h3>
 
-- **Jana, P., Das, K., et al. (2026).** *An approach through leading key-pair based uninformed video steganography.* Lecture Notes in Networks and Systems, Springer Nature Switzerland. [DOI](https://doi.org/10.1007/978-3-031-02790-0_39)
+- **Jana, P., Das, K., et al. (2026).** *An approach through leading key-pair based uninformed video steganography.* Lecture Notes in Networks and Systems, Springer Nature Switzerland. [DOI]([https://doi.org/10.1007/978-3-031-02790-0_39](https://link.springer.com/chapter/10.1007/978-3-032-02790-0_39))
 
-- **Jana, P., Banerjee, D., Das, K., et al. (2023).** *Trends and appraisal on threats, attacks, and security models.* In Streamlining Organizational Processes through AI, IoT, Blockchain, and Virtual Environments. IGI Global. [DOI](https://doi.org/10.4018/978-1-6684-8639-9.ch007)
+- **Jana, P., Banerjee, D., Das, K., et al. (2023).** *Trends and appraisal on threats, attacks, and security models.* In Streamlining Organizational Processes through AI, IoT, Blockchain, and Virtual Environments. IGI Global. [DOI]([https://doi.org/10.4018/978-1-6684-8639-9.ch007](https://www.igi-global.com/gateway/chapter/325340))
 
 ---
 
