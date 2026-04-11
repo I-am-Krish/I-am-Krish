@@ -23,7 +23,6 @@
 > *"The quieter you become, the more you are able to hear"* — every system whispers its own vulnerability. I just know how to listen.
 
 - 🎓 **M.Tech Cyber Security** @ Defence Institute of Advanced Technology (DIAT), Pune
-- 💼 **Graduate Engineer Trainee** @ Wingspan Global Pvt. Ltd.
 - 🔬 Researching **Cyber-Physical System Security**, **Network Protocol Design**, **Steganography** & **ML-based Threat Detection**
 - 📄 **2 Research Papers** published in Springer Nature & IGI Global
 - 🤝 Volunteer @ **7th IEEE PUNECON 2024**
