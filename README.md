@@ -93,5 +93,5 @@
 ---
 
 <div align="center">
-  <i>Made with ❤️ | Let's connect and build something secure.</i>
+  <i>Let's connect and build something secure.</i>
 </div>
