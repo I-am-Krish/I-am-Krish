@@ -24,7 +24,7 @@
 
 - 🎓 **M.Tech Cyber Security** @ Defence Institute of Advanced Technology (DIAT), Pune
 - 🔬 Researching **Cyber-Physical System Security**, **Network Protocol Design**, **Steganography** & **ML-based Threat Detection**
-- 📄 **2 Research Papers** published in Springer Nature & IGI Global
+- 📄 **3 Research Publications** in IEEE Xplore, Springer Nature & IGI Global
 - 🤝 Volunteer @ **7th IEEE PUNECON 2024**
 
 ---
@@ -77,6 +77,8 @@
 ---
 
 <h3 align="left">📄 Research Publications</h3>
+
+- **Das, K.**, & Nene, M. J. (2026). [*Adaptive Cyber Deception: Performance Evaluation of AI-Driven Strategies Against Traditional Honeypots*](https://ieeexplore.ieee.org/document/11646292). 2026 Fifth International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, pp. 697-702, doi: 10.1109/ICPC2T68221.2026.11646292.
 
 - **Jana, P., Das, K., et al. (2026).** *An approach through leading key-pair based uninformed video steganography.* Lecture Notes in Networks and Systems, Springer Nature Switzerland.
 
