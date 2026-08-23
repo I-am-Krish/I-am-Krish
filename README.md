@@ -1,6 +1,6 @@
 <!-- =============== HEADER =============== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=I-am-Krish&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Researcher%20%E2%97%86%20Developer&descAlignY=60&descSize=18&descColor=e0e0e0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=I-am-Krish&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Engineer%20%E2%97%86%20Developer&descAlignY=60&descSize=18&descColor=e0e0e0" width="100%"/>
 </div>
 
 <!-- =============== TYPING =============== -->
