@@ -84,7 +84,6 @@ contact : krishnashisdas.professional@gmail.com
   <a href="https://www.linkedin.com/in/krishnashis-das-b879b8227">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000" height="42"/>
   </a>
-  &nbsp;
   <a href="https://my-portfolio-tau-sandy-91.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000" height="42"/>
   </a>
